@@ -1,0 +1,21 @@
+# Created on 2018-04-08T14:42:28.322
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+
+# Created on 2018-04-08T14:42:28.323
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+
+# Created on 2018-04-08T14:42:55.448
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2018-04-08T14:42:55.468
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/Users/yingqiao/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+
+# Created on 2018-04-08T14:42:55.483
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+
+# Created on 2018-04-08T14:42:55.485
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2018-04-08T14:42:55.486
+WARNING: All illegal access operations will be denied in a future release
+
